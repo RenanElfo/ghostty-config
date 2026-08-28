@@ -1,9 +1,13 @@
-theme = dark:Gruvbox Dark,light:Gruvbox Light
+theme = dark:Gruvbox Material Dark,light:Gruvbox Material Light
 
 # Thick block cursor everywhere (stop shell integration from
 # switching to a thin bar at the prompt)
 cursor-style = block
 shell-integration-features = no-cursor
+
+# Styles
+background-opacity = 0.95
+background-blur = true
 
 # Tabs
 keybind = ctrl+t=new_tab
