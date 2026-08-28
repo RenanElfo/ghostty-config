@@ -6,8 +6,13 @@ cursor-style = block
 shell-integration-features = no-cursor
 
 # Styles
+font-size = 18
 background-opacity = 0.95
 background-blur = true
+
+# Default window size (in grid cells)
+window-width = 48
+window-height = 24
 
 # Tabs
 keybind = ctrl+t=new_tab
