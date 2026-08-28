@@ -15,6 +15,7 @@ window-width = 48
 window-height = 24
 
 # Tabs
+window-new-tab-position = end
 keybind = ctrl+t=new_tab
 keybind = ctrl+alt+w=close_tab:this
 keybind = ctrl+1=goto_tab:1
