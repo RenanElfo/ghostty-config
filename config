@@ -1,4 +1,4 @@
-theme = dark:Gruvbox Material Dark,light:Gruvbox Material Light
+theme = dark:Desert,light:Gruvbox Material Light
 
 # Thick block cursor everywhere (stop shell integration from
 # switching to a thin bar at the prompt)
