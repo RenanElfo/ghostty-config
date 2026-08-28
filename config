@@ -1,0 +1,22 @@
+theme = dark:Gruvbox Dark,light:Gruvbox Light
+
+# Thick block cursor everywhere (stop shell integration from
+# switching to a thin bar at the prompt)
+cursor-style = block
+shell-integration-features = no-cursor
+
+# Tabs
+keybind = ctrl+t=new_tab
+keybind = ctrl+alt+w=close_tab:this
+keybind = ctrl+1=goto_tab:1
+keybind = ctrl+2=goto_tab:2
+keybind = ctrl+3=goto_tab:3
+keybind = ctrl+4=goto_tab:4
+keybind = ctrl+5=goto_tab:5
+keybind = ctrl+6=goto_tab:6
+keybind = ctrl+7=goto_tab:7
+keybind = ctrl+8=goto_tab:8
+keybind = ctrl+9=goto_tab:9
+
+# Fullscreen
+keybind = f11=toggle_fullscreen
