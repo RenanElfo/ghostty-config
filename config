@@ -10,6 +10,12 @@ font-size = 18
 background-opacity = 0.95
 background-blur = true
 
+# Background image (GNOME paints black behind fullscreen windows,
+# so draw the wallpaper inside ghostty instead)
+background-image = /usr/share/backgrounds/Little_numbat_boy_by_azskalt.png
+background-image-fit = cover
+background-image-opacity = 0.05
+
 # Default window size (in grid cells)
 window-width = 48
 window-height = 24
