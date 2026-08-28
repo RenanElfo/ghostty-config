@@ -30,3 +30,4 @@ keybind = ctrl+9=goto_tab:9
 
 # Fullscreen
 keybind = f11=toggle_fullscreen
+fullscreen = true
