@@ -7,12 +7,13 @@ shell-integration-features = no-cursor
 
 # Styles
 font-size = 18
-background-opacity = 0.95
+background-opacity = 0.7
 background-blur = true
 
 # Background image (GNOME paints black behind fullscreen windows,
 # so draw the wallpaper inside ghostty instead)
-background-image = /usr/share/backgrounds/Little_numbat_boy_by_azskalt.png
+# background-image = /usr/share/backgrounds/Little_numbat_boy_by_azskalt.png
+background-image = /home/estacao/.config/ghostty/kame-house-dragon-ball.jpg
 background-image-fit = cover
 background-image-opacity = 0.05
 
